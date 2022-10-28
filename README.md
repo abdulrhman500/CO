@@ -17,6 +17,6 @@ through a common bus that has 3 control select lines S2, S1 and S0.
      * DR
      * TR
      * AR
-     *AC (Accumulator Register)
+     * AC (Accumulator Register)
      * PC
 * Each register has a load enable flag to control whether the data available from the bus, will update its content or not.
